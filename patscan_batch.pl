@@ -3,7 +3,6 @@
 # patscan_batch.pl
 # Run patscan on all seqs in a folder
 # Can be easily modified to run any command on every sequence in a folder
-# WI Biocomputing course - Bioinformatics for Biologists - October 2003
 
 ################  User-supplied variables  #############
 
